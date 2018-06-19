@@ -1,6 +1,4 @@
 # Anup-Gandhi
-N26 Home Challenge
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+## N26 Home Challenge
+
+Test Case Name | Test Case Discription | Priority | Seviority | IsAutomatable | 
