@@ -1,6 +1,5 @@
-# Anup-Gandhi
-## N26 Home Challenge
+# N26 Home Challenge
 
-Test Case Name | Test Case Discription | Priority | Seviority | IsAutomatable | 
----------------| ----------------------|----------|-----------|---------------|
+Test Case ID | Test Case Name | Test Case Discription | Priority | Seviority | IsAutomatable | Author |
+-------------|----------------|-----------------------|----------------------|---------------|--------|
 
