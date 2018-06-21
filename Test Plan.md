@@ -1,6 +1,6 @@
-## **N26 – QE Home Challenge**
+# **N26 – QE Home Challenge**
 
-# **Test Plan / Test Case Document**
+## **Test Plan / Test Case Document**
 
 *Table of Content*
 
@@ -34,7 +34,7 @@
 
 6.  Test Environment - *NA (for this task)*
 
-    # **Introduction**
+    ## **Introduction**
 
 1.  **Purpose:** This test plan describes the testing approach and overall
     framework that will drive the testing of the Monify mobile application. This
@@ -59,7 +59,7 @@
     different graph format and also allows user to export the report and save
     it.
 
-# **Test Cases**
+    ## **Test Cases**
 
 **Reference:**
 
@@ -118,7 +118,7 @@ detailed test case is added at the end)
 | **22.**     | **Create a file that the app accepts as the input and choose to restore the file from the ‘Restore Data’ – file is restored properly and balance and category are highlighted accordingly**                                                                                       | **P0**       | **End-To-End**              |
 | **23.**     | **Choose clear data to clear the data completely from the app – user is prompted with a warning message to confirm the action and on confirming the action all records are wiped off**                                                                                            | **P1**       | **End-To-End**              |
 
-# **A Sample Detailed Test Case**
+## **A Sample Detailed Test Case**
 
 | Test Case ID: 1 | Test Name: Add an expense record                                                   |                                                                                        |                     |
 |-----------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------|
