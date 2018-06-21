@@ -34,7 +34,7 @@
 
 6.  Test Environment - *NA (for this task)*
 
-    ## **Introduction**
+## **Introduction**
 
 1.  **Purpose:** This test plan describes the testing approach and overall
     framework that will drive the testing of the Monify mobile application. This
@@ -59,9 +59,9 @@
     different graph format and also allows user to export the report and save
     it.
 
-    ## **Test Cases**
+## **Test Cases**
 
-**Reference:**
+### **Reference:**
 
 **Test ID**: Unique ID for individual test cases
 
@@ -89,7 +89,7 @@ is being written.
 
 **Author**: Name of the individual who has drafted the test case.
 
-**List of test cases** (A list of ideas/bullet points to test for - A sample
+### **List of test cases** (A list of ideas/bullet points to test for - A sample
 detailed test case is added at the end)
 
 | **Test ID** | **Description**                                                                                                                                                                                                                                                                   | **Priority** | **Test Type**               |
