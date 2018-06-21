@@ -121,7 +121,7 @@ is being written.
 
 | Test ID: 1 | Test Name: Add an expense record                                                   |                                                                                        |                     |
 |-----------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------|
-| Priority: P1    | Automatable: Y                                                                     | Product: Monify                                                                        | Component: Income   |
+| Priority: P0    | Automatable: Y                                                                     | Product: Monify                                                                        | Component: Income   |
 | Status: Review  | Test Case Type: End-To-End                                                         | Creation Date: 120.06.18                                                               | Author: Anup Gandhi |
 | **Step No.**    | **Test Input**                                                                     | **Expected Result**                                                                    |                     |
 | 1.              | I launch the Monify application on the android device under test.                  | Application is launched successfully.                                                  |                     |
