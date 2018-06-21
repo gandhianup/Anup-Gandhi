@@ -1,6 +1,6 @@
-**N26 – QE Home Challenge**
+##**N26 – QE Home Challenge**
 
-**Test Plan / Test Case Document**
+#**Test Plan / Test Case Document**
 
 *Table of Content*
 
@@ -34,7 +34,7 @@
 
 6.  Test Environment - *NA (for this task)*
 
->   **sIntroduction**
+>   #**Introduction**
 
 1.  **Purpose:** This test plan describes the testing approach and overall
     framework that will drive the testing of the Monify mobile application. This
@@ -59,7 +59,7 @@
     different graph format and also allows user to export the report and save
     it.
 
-**Test Cases**
+#**Test Cases**
 
 **Reference:**
 
