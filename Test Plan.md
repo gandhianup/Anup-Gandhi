@@ -89,8 +89,7 @@ is being written.
 
 **Author**: Name of the individual who has drafted the test case.
 
-### **List of test cases** (A list of ideas/bullet points to test for - A sample
-detailed test case is added at the end)
+### **List of test cases** (A list of ideas/bullet points to test for - A sample detailed test case is added at the end)
 
 | **Test ID** | **Description**                                                                                                                                                                                                                                                                   | **Priority** | **Test Type**               |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------------------------|
