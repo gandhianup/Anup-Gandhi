@@ -43,7 +43,7 @@ Base Memory: 3072 MB
 Processor: 4
 
 
-### **Test Case automated**
+### **Test Cases automated**
 
 | Test ID: 1   | Test Name: Set Passcode and Login and validate default value for amount field  | Test Case Type: End-To-End                                      |
 |--------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -85,6 +85,7 @@ Processor: 4
 
 
 ### **A successful run testing report screen capture for reference as below:**
+
 
 ![](media/aff82327936f0fb7230fc9131f847ef2.png)
 
