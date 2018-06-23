@@ -1,4 +1,4 @@
-##N26 – QE Home Challenge – Task2 
+## N26 – QE Home Challenge – Task2 
 ### (CoCoin Mobile Automation)
 
 
