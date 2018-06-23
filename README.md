@@ -7,5 +7,3 @@
     part of dependency injection.
 
 -   Github link: <https://github.com/gandhianup/Anup-Gandhi>
-
-    s
