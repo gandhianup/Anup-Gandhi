@@ -3,7 +3,7 @@ N26 – QE Home Challenge – Task2
 
 ### **Pre-Requisites / Requirements**:
 
-Java
+Java (jdk 8.0_161)
 
 Node JS (8.11.3)
 
