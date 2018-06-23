@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CoCoin Automation Test Suite]">
+  <test name="Validate List View(failed)">
+    <classes>
+      <class name="com.cocoin.n26task.tests.SetExpenseLimit">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.cocoin.n26task.tests.SetExpenseLimit -->
+      <class name="com.cocoin.n26task.tests.ValidateListView">
+        <methods>
+          <include name="validateListView"/>
+        </methods>
+      </class> <!-- com.cocoin.n26task.tests.ValidateListView -->
+    </classes>
+  </test> <!-- Validate List View(failed) -->
+  <test name="Adding Multiple Records(failed)">
+    <classes>
+      <class name="com.cocoin.n26task.tests.SetExpenseLimit">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.cocoin.n26task.tests.SetExpenseLimit -->
+      <class name="com.cocoin.n26task.tests.MultipleExpenses">
+        <methods>
+          <include name="multipleExpense"/>
+        </methods>
+      </class> <!-- com.cocoin.n26task.tests.MultipleExpenses -->
+    </classes>
+  </test> <!-- Adding Multiple Records(failed) -->
+  <test name="Set Expense Limit(failed)">
+    <classes>
+      <class name="com.cocoin.n26task.tests.SetExpenseLimit">
+        <methods>
+          <include name="init"/>
+          <include name="addRecord"/>
+        </methods>
+      </class> <!-- com.cocoin.n26task.tests.SetExpenseLimit -->
+    </classes>
+  </test> <!-- Set Expense Limit(failed) -->
+</suite> <!-- Failed suite [CoCoin Automation Test Suite] -->

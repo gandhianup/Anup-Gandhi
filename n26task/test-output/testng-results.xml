@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CoCoin Automation Test Suite" duration-ms="315999" started-at="2018-06-23T22:59:00Z" finished-at="2018-06-23T23:04:16Z">
+    <groups>
+    </groups>
+    <test name="Checking Default Value" duration-ms="56596" started-at="2018-06-23T22:59:00Z" finished-at="2018-06-23T22:59:57Z">
+      <class name="com.cocoin.n26task.tests.DefaultValue">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.cocoin.n26task.tests.DefaultValue@dc24521]" name="init" is-config="true" duration-ms="13846" started-at="2018-06-24T04:29:00Z" finished-at="2018-06-24T04:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.cocoin.n26task.tests.DefaultValue@dc24521]" name="login" duration-ms="42736" started-at="2018-06-24T04:29:14Z" finished-at="2018-06-24T04:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.cocoin.n26task.tests.DefaultValue -->
+    </test> <!-- Checking Default Value -->
+    <test name="Validate List View" duration-ms="74834" started-at="2018-06-23T22:59:57Z" finished-at="2018-06-23T23:01:12Z">
+      <class name="com.cocoin.n26task.tests.ValidateListView">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.cocoin.n26task.tests.ValidateListView@185d8b6]" name="init" is-config="true" duration-ms="13648" started-at="2018-06-24T04:29:57Z" finished-at="2018-06-24T04:30:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateListView()[pri:0, instance:com.cocoin.n26task.tests.ValidateListView@185d8b6]" name="validateListView" duration-ms="61186" started-at="2018-06-24T04:30:10Z" finished-at="2018-06-24T04:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateListView -->
+      </class> <!-- com.cocoin.n26task.tests.ValidateListView -->
+    </test> <!-- Validate List View -->
+    <test name="Adding Multiple Records" duration-ms="85282" started-at="2018-06-23T23:01:12Z" finished-at="2018-06-23T23:02:37Z">
+      <class name="com.cocoin.n26task.tests.MultipleExpenses">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.cocoin.n26task.tests.MultipleExpenses@3b0143d3]" name="init" is-config="true" duration-ms="13209" started-at="2018-06-24T04:31:12Z" finished-at="2018-06-24T04:31:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="multipleExpense()[pri:0, instance:com.cocoin.n26task.tests.MultipleExpenses@3b0143d3]" name="multipleExpense" duration-ms="72072" started-at="2018-06-24T04:31:25Z" finished-at="2018-06-24T04:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleExpense -->
+      </class> <!-- com.cocoin.n26task.tests.MultipleExpenses -->
+    </test> <!-- Adding Multiple Records -->
+    <test name="Set Expense Limit" duration-ms="99251" started-at="2018-06-23T23:02:37Z" finished-at="2018-06-23T23:04:16Z">
+      <class name="com.cocoin.n26task.tests.SetExpenseLimit">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.cocoin.n26task.tests.SetExpenseLimit@3a5ed7a6]" name="init" is-config="true" duration-ms="13356" started-at="2018-06-24T04:32:37Z" finished-at="2018-06-24T04:32:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addRecord()[pri:0, instance:com.cocoin.n26task.tests.SetExpenseLimit@3a5ed7a6]" name="addRecord" duration-ms="85892" started-at="2018-06-24T04:32:50Z" finished-at="2018-06-24T04:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRecord -->
+      </class> <!-- com.cocoin.n26task.tests.SetExpenseLimit -->
+    </test> <!-- Set Expense Limit -->
+  </suite> <!-- CoCoin Automation Test Suite -->
+</testng-results>

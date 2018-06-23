@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="CoCoin Automation Test Suite">
+  
+  <test name="Checking Default Value">
+    <classes>
+      <class name="com.cocoin.n26task.tests.DefaultValue"/>
+    </classes>
+  </test>
+  
+  <test name="Validate List View">
+    <classes>
+      <class name="com.cocoin.n26task.tests.ValidateListView"/>
+    </classes>
+  </test>
+  
+  <test name="Adding Multiple Records">
+    <classes>
+      <class name="com.cocoin.n26task.tests.MultipleExpenses"/>
+    </classes>
+  </test>
+  
+    <test name="Set Expense Limit">
+    <classes>
+      <class name="com.cocoin.n26task.tests.SetExpenseLimit"/>
+    </classes>
+  </test>
+  
+</suite>
