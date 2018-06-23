@@ -1,7 +1,7 @@
 N26 – QE Home Challenge – Task2
 ===============================
 
-**Pre-Requisites / Requirements**:
+###**Pre-Requisites / Requirements**:
 
 Java
 
@@ -27,7 +27,8 @@ Eclipse – IDE (oxygen 2- 4.7.2)
 
 Apache POI (3.17)
 
-**Virtual Device used:**
+
+###**Virtual Device used:**
 
 Android:ss Nexus 6
 
@@ -41,7 +42,8 @@ Base Memory: 3072 MB
 
 Processor: 4
 
-**Test Case automated**
+
+###**Test Case automated**
 
 | Test ID: 1   | Test Name: Set Passcode and Login and validate default value for amount field  | Test Case Type: End-To-End                                      |
 |--------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -81,8 +83,8 @@ Processor: 4
 | 5.           | Navigate to list view page by selecting the top left option                    | List view page is displayed                                     |
 | 6.           | Verify the record present in list view                                         | No record present as there is no record that was added          |
 
-**A successful run testing report screen capture for reference as below:**
+
+###**A successful run testing report screen capture for reference as below:**
 
 ![](media/aff82327936f0fb7230fc9131f847ef2.png)
 
-ss
